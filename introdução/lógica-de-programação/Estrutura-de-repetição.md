@@ -30,4 +30,21 @@ Escreva (numeros E posição)
 
 armazena dados em forma especifica 
 
+#### Pilhas
+estrutura de uma coleçãi de elemento 
+* Só permite acesso aos itens uma única vez
+#### Tipos
+
+Lifo (Ueps)
+Último que entra, primeiro que sai
+
+Fifo (peps)
+Priemiro que entra primeiro que sai
+
+Filas: sempre se renova com o primeiro
+
+Arvores:
+estrutura organizada de maneira hierárquia  fica no todo a raiaz e os elementos e depois vem os elementos chamados de folhas ou nós
+Raiz é sempre o meio
+
  
